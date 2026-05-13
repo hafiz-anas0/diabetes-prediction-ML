@@ -1,5 +1,3 @@
-# diabetes-prediction-ML
-Diabetes Prediction using Machine Learning Algorithms A comparative machine learning study on the Pima Indians Diabetes dataset. Five classification algorithms and an Artificial Neural Network (ANN) are implemented, evaluated, and compared to predict the onset of diabetes based on diagnostic measurements.
 # Diabetes Prediction using Machine Learning Algorithms
 
 A comparative machine learning study on the **Pima Indians Diabetes dataset**. Five classification algorithms and an Artificial Neural Network (ANN) are implemented, evaluated, and compared to predict the onset of diabetes based on diagnostic measurements.
@@ -60,4 +58,4 @@ A comparative machine learning study on the **Pima Indians Diabetes dataset**. F
 
 **Hafiz Muhammad Anas Majid**  
 BS Computer Science — University of Management and Technology (UMT), Lahore  
-[LinkedIn](https://www.linkedin.com/in/) · [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/) · [Portfolio](https://hafiz-anas-portfolio.netlify.app/)
